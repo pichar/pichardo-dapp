@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Defi Exchange
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a Defi Blockchain Application. Live site [here](https://still-disk-8119.on.fleek.co/)
 
-Try running some of the following tasks:
+Metamask account needed for full access:
+- Goerli Network used by default 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
